@@ -1,0 +1,23 @@
+
+body{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.firstRow{
+  margin-top: 30px;
+}
+.SecondRow{
+  margin-top: 20px;
+}
+
+div{
+  display: block;
+}
+div>h1{
+background-color: #79a3b1;
+  color:#fff;
+
+}
+.fonth2{
+  font-family: "Aguafina", "Courier New", cursive;
+}
